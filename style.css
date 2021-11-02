@@ -1,1 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
 
+body {
+    font-family: 'Open-Sans', sans-serif;
+    background-image: linear-gradient(to right, #00c6fb 0%, #005bea 100%);
+    text-align: center;
+}
+
+.current{
+    color: rgb(251, 248, 248);
+    font-weight: bold;
+    font-size: 30px;
+    padding: 30px;
+}
+
+input, .button {
+    padding: 4px;
+}
